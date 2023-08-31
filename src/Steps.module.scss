@@ -1,0 +1,11 @@
+.steps {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+
+    &__wrapper {
+        margin-bottom: 20px;
+    }
+}

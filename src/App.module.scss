@@ -1,0 +1,10 @@
+.app {
+  padding: 40px 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+
+  &__logo {
+    width: 40%;
+    min-width: 320px;
+    margin: 0 auto;
+  }
+}

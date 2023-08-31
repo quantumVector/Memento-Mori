@@ -1,0 +1,40 @@
+.result {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+
+    &__wrap {
+        display: flex;
+        flex-direction: column;
+        margin-right: 5px;
+
+        &:first-child {
+            justify-content: flex-end;
+        }
+    }
+
+    &__title {
+        margin: 3px 0; 
+        font-size: 12px;
+        text-align: center;
+    }
+
+    &__cells {
+        display: flex;
+        flex-wrap: wrap;
+        width: 60px;
+    }
+
+    &__cell {
+        width: 12px;
+        height: 12px;
+        background-color: rgb(175, 175, 175);
+        margin: 2px;
+        padding: 2px;
+        border-radius: 3px;
+    }
+
+    &__blue {
+        background-color: rgb(31, 143, 222);
+    }
+}
