@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memento-Mori/static/css/main.4ab027e2.css",
+    "main.js": "/Memento-Mori/static/js/main.7a501b00.js",
+    "index.html": "/Memento-Mori/index.html",
+    "main.4ab027e2.css.map": "/Memento-Mori/static/css/main.4ab027e2.css.map",
+    "main.7a501b00.js.map": "/Memento-Mori/static/js/main.7a501b00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab027e2.css",
+    "static/js/main.7a501b00.js"
+  ]
+}
